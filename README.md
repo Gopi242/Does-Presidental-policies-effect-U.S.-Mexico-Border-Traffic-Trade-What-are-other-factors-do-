@@ -10,7 +10,7 @@ Business Problem : To find out if the US President’s policies/statements are a
 
 File descriptions in folder :
 
-1) Border_Crossing_Entry_Data.csv.zip - Kaggle data set which gives border traffic across US Canada and US Mexico on a monthly basis
+1) Border_Crossing_Entry_Data.csv.zip - Kaggle data set which gives border traffic across US Canada and US Mexico on a monthly basis. URL : https://www.kaggle.com/akhilv11/border-crossing-entry-data
 2) GasPrices.zip - Gas prices data extracted online on a monthly basis for each state.
 3) KBB_cars.csv - Listings of cars prices extraced from on KBB.com. Backup topic.
 4) Symposium Topics Discussion - Discussion topic of various topics shortlisted for competition
